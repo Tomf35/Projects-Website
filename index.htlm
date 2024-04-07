@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>My Portfolio</h1>
+  <p>These are some of the projects I have been working on to improve my coding skills</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
